@@ -1,5 +1,7 @@
 # PictoSketch Delete Account Page
 
+   - 日本語が下にあります。
+
 Request Account Deletion 
 
 If you would like to delete your account and all associated data from [PictoSketch], please follow the steps below.
