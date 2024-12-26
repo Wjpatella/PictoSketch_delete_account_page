@@ -15,5 +15,6 @@ Account information (username and password)
 Usage data and app preferences
 The following data may be retained for [X days/months] for legal, compliance, or security purposes:
 
-Transaction history
-Logs and backups
+-Transaction history
+
+-Logs and backups
