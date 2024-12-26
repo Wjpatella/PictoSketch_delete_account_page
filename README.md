@@ -12,7 +12,9 @@ Data Deletion Policy
 The following data will be permanently deleted:
 
 Account information (username and password)
+
 Usage data and app preferences
+
 The following data may be retained for [X days/months] for legal, compliance, or security purposes:
 
 -Transaction history
