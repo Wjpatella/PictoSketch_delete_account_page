@@ -1,7 +1,6 @@
 # PictoSketch Delete Account Page
-PictoSketch_delete_account_page
-Request Account Deletion
 
+Request Account Deletion 
 If you would like to delete your account and all associated data from [PictoSketch], please follow the steps below.
 
 # Steps to Request Deletion
