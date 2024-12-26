@@ -8,7 +8,7 @@ If you would like to delete your account and all associated data from [PictoSket
 1. Email us a request at williampatellajr@gmail.com.
 2. Provide the username and password associated with your account.
 3. Submit your request, and we will process it as soon as we can.
-4. If you are a teacher wanting to delate studnet accoutns for studnents under the age of 18 years old, provide all student's usernames and passwords for which you want delated in the email request.
+4. If you are a teacher wanting to delate studnet accoutns for studnents under the age of 18 years old, provide all student's usernames and passwords for which you want deleted in the email request.
    
 # Data Deletion Policy
 The following data will be permanently deleted:
